@@ -1,2 +1,3 @@
 # RADFAR
-implementation of Active Learning Strategies to Reduce Anomaly Detection False Alarm Rates
+check activattin learning  schema of "Active Learning Strategies to Reduce Anomaly Detection False Alarm Rates".
+
